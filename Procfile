@@ -1,1 +1,1 @@
-worker: npm i wa-sticker-formatter && npm start
+pekerja: npm i wa-sticker-formatter && npm start
